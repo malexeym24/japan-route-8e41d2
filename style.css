@@ -74,5 +74,7 @@ th{font-size:12px;color:var(--mute);font-weight:600}
 .city img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block}.city div{padding:7px 9px;font-size:13px;line-height:1.35}.city b{font-size:15px}
 .city .n{color:var(--mute);display:block;margin-top:3px}
 .hl{border-left:6px solid var(--acc)}
+.lbl{font:600 12px -apple-system,sans-serif;padding:1px 5px;border-radius:6px}
+.stops{list-style:none;padding:0;margin:6px 0}.stops li{padding:5px 0;border-bottom:1px dashed var(--line);font-size:15px}.stops .pin{vertical-align:middle;margin-right:4px}
 .day .btns{margin:4px 0 0}.day .btn{padding:5px 10px;font-size:13px}
 @media(min-width:700px){.cities{grid-template-columns:1fr 1fr 1fr}}
